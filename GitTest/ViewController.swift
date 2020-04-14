@@ -14,21 +14,20 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+
+    func feature001() -> Void {
+        
+    }
+    
+    func feature002() -> Void {
+        
+    }
     
     func feature003() -> Void {
         
     }
     
     func feature004() -> Void {
-        
-    }
-
-    func feature001() -> Void {
-        
-    }
-    
-    
-    func feature002() -> Void {
         
     }
 
