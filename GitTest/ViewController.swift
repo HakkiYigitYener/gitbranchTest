@@ -18,18 +18,6 @@ class ViewController: UIViewController {
     func feature001() -> Void {
         
     }
-    
-    func feature002() -> Void {
-        
-    }
-    
-    func feature003() -> Void {
-        
-    }
-    
-    func feature004() -> Void {
-        
-    }
 
 }
 
